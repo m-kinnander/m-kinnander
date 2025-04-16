@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on any of my open source projects
 - ✨ I have repos in gitlab that can be found at https://gitlab.com/kinnander
 - 📫 How to reach me https://www.linkedin.com/in/matthewkinnander-dalbec/
-- 
